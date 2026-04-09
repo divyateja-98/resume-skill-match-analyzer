@@ -1,0 +1,8 @@
+resume-skill-match-analyzer
+│
+├── data/
+│   └── ai_job_dataset.csv
+│
+├── app.py
+├── requirements.txt
+└── README.md
