@@ -1,0 +1,51 @@
+job_title,required_skills,experience_level,industry,salary_usd
+Machine Learning Engineer,"python, machine learning, pandas, numpy, scikit-learn, sql, statistics",entry,tech,85000
+Data Scientist,"python, statistics, machine learning, pandas, numpy, sql, data visualization, matplotlib",entry,tech,82000
+AI Engineer,"python, deep learning, pytorch, tensorflow, machine learning, numpy, sql",entry,tech,90000
+Data Analyst,"excel, sql, python, data visualization, statistics, power bi",entry,finance,65000
+ML Engineer,"python, scikit-learn, pandas, numpy, mlops, docker, git",entry,tech,88000
+NLP Engineer,"python, nlp, spacy, nltk, machine learning, deep learning",entry,tech,87000
+Business Analyst,"excel, sql, statistics, data visualization, power bi, communication",entry,consulting,60000
+Computer Vision Engineer,"python, opencv, deep learning, pytorch, numpy",entry,tech,92000
+AI Research Assistant,"python, machine learning, statistics, numpy, research",entry,education,70000
+Junior Data Scientist,"python, pandas, numpy, machine learning, sql, statistics",entry,tech,75000
+Data Engineer,"python, sql, etl, data pipelines, spark, hadoop",entry,tech,83000
+MLOps Engineer,"python, docker, kubernetes, mlops, git, cloud computing",entry,tech,91000
+BI Analyst,"sql, power bi, excel, data visualization, statistics",entry,finance,68000
+AI Developer,"python, tensorflow, deep learning, machine learning, numpy",entry,tech,87000
+Analytics Engineer,"sql, python, dbt, data modeling, etl",entry,tech,80000
+Deep Learning Engineer,"python, pytorch, tensorflow, deep learning, numpy",entry,tech,95000
+Research Intern AI,"python, statistics, machine learning, numpy",entry,education,60000
+Junior ML Engineer,"python, scikit-learn, pandas, numpy, sql",entry,tech,78000
+Data Science Intern,"python, pandas, numpy, statistics, machine learning",entry,tech,55000
+AI Analyst,"python, sql, statistics, data visualization, machine learning",entry,tech,72000
+AI Consultant,"python, machine learning, sql, statistics, analytics",entry,consulting,78000
+Data Quality Analyst,"excel, sql, data cleaning, data validation, reporting",entry,finance,62000
+ML Analyst,"python, pandas, numpy, scikit-learn, sql",entry,tech,76000
+AI Product Analyst,"python, sql, machine learning, analytics",entry,tech,80000
+Data Science Associate,"python, pandas, numpy, statistics, sql",entry,tech,74000
+Research Assistant ML,"python, statistics, machine learning, numpy",entry,education,61000
+AI Intern,"python, machine learning, pandas, numpy",entry,tech,50000
+Junior AI Engineer,"python, tensorflow, numpy, machine learning",entry,tech,83000
+Data Analytics Intern,"excel, sql, python, data visualization",entry,finance,48000
+ML Research Intern,"python, numpy, machine learning, statistics",entry,education,56000
+AI Operations Analyst,"python, sql, data preprocessing, analytics",entry,tech,69000
+Data Validation Analyst,"excel, sql, data validation, data cleaning",entry,finance,63000
+AI Data Associate,"python, pandas, numpy, data preprocessing, sql",entry,tech,71000
+ML Support Engineer,"python, scikit-learn, sql, numpy",entry,tech,82000
+AI Implementation Analyst,"python, sql, analytics, machine learning",entry,tech,77000
+Junior Data Engineer,"python, sql, etl, data pipelines",entry,tech,79000
+AI Insights Analyst,"python, sql, statistics, visualization",entry,tech,75000
+ML Pipeline Analyst,"python, mlops, docker, git, sql",entry,tech,88000
+AI Testing Analyst,"python, data validation, testing, sql",entry,tech,70000
+Data Preparation Specialist,"python, pandas, data cleaning, preprocessing",entry,tech,67000
+AI Quality Analyst,"python, sql, data validation, analytics",entry,tech,72000
+ML Deployment Analyst,"python, docker, mlops, cloud",entry,tech,90000
+AI Reporting Analyst,"excel, power bi, sql, visualization",entry,finance,65000
+Data Processing Analyst,"python, pandas, numpy, preprocessing",entry,tech,69000
+AI Data Specialist,"python, sql, data preprocessing, validation",entry,tech,73000
+Junior AI Consultant,"python, machine learning, sql",entry,consulting,76000
+AI Model Analyst,"python, scikit-learn, numpy, statistics",entry,tech,81000
+ML Data Technician,"python, pandas, data cleaning, sql",entry,tech,68000
+AI Workflow Analyst,"python, sql, preprocessing, analytics",entry,tech,74000
+AI Research Intern,"python, statistics, numpy, machine learning",entry,education,58000
